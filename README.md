@@ -1,4 +1,4 @@
-<h1 align="left">Hey,👋I’m Puneet — a Computer Science student exploring AI, backend systems, and ideas that actually matter 🌍</h1>
+<h1 align="left">Hey 👋 I am Puneet....</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-- <h3 align="left">My name is Puneet Kapoor and I'm a Python Developer and Full stack Developer.</h3>
+<h3 align="left">My name is Puneet Kapoor and I'm a Python Developer and Full stack Developer.</h3>
 
 ###
 
@@ -16,15 +16,11 @@
 
 ###
 
-<p align="left">🎓 I am a Computer Science Engineering student who learns best by building real things, not just reading about them<br><br>💻 Strong grip on C, Python, Data Structures, and problem-solving fundamentals and full stack developments and the best bond with the knowledge about AI Tools<br> <br>🤖 Exploring AI, Generative AI, and multi-agent systems through hands-on projects<br><br>🧠 I care about clean, readable code — code that humans can understand, not just machines<br><br>🚀 Enjoy turning rough ideas into working products and iterating fast<br><br>🛠️ Actively building projects in backend development, a utomation, and analytics<br><br>🧪 Hackathon-driven mindset — learning fast, adapting quickly, shipping under pressure<br><br>🌱 Focused on consistent growth, long-term thinking, and getting better every day<br>
+<p align="left">🎓 I am a Computer Science Engineering student who learns best by building real things, not just reading about them<br><br>💻 Strong grip on C, Python, Data Structures, and problem-solving fundamentals and full stack developments and the best bond with the knowledge about AI Tools<br> <br>🤖 Exploring AI, Generative AI, and multi-agent systems through hands-on projects<br><br>🧠 I care about clean, readable code — code that humans can understand, not just machines<br><br>🚀 Enjoy turning rough ideas into working products and iterating fast<br><br>🛠️ Actively building projects in backend development, automation, and analytics<br><br>🧪 Hackathon-driven mindset — learning fast, adapting quickly, shipping under pressure<br><br>🌱 Focused on consistent growth, long-term thinking, and getting better every day<br>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Puneetkapoor321/Puneetkapoor321/output/snake.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Puneetkapoor321/Puneetkapoor321/output/snake-light.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Puneetkapoor321/Puneetkapoor321/output/snake.gif" />
-</picture>
+<img src="https://raw.githubusercontent.com/Puneetkapoor321/Puneetkapoor321/output/snake.gif" alt="Snake animation" />
 
 ###
 
