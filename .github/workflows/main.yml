@@ -29,7 +29,9 @@ jobs:
 
 
             # 🐍 Premium dark GIF (matches your screenshot)
-            dist/snake.gif?color_snake=#3fb950&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_background=#0d1117
+            outputs: |
+            dist/snake.gif?color_snake=#c6e48b&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_background=#0d1117
+
 
       - name: push snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
