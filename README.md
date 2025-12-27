@@ -20,7 +20,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Puneetkapoor321/Puneetkapoor321/output/snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Puneetkapoor321/Puneetkapoor321/output/snake-maroon.gif" alt="Snake animation" />
 
 
 ###
